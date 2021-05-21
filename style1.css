@@ -1,0 +1,69 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #222;
+    font-family: cursive;
+    font-size: 120%;
+    background-image: url('https://source.unsplash.com/1600x900/?city,dark');
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card{
+    background: #000d00;
+    opacity: 80%;
+    color: white;
+    padding: 2em;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 420px;
+    margin: 5em;
+}
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    margin: 0.5em;
+    border-radius: 50%;
+    border: none;
+    height: 46px;
+    width: 56px;
+    outline: none;
+    background: #7c7c7c2b;
+    color: white;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
+button:hover{
+    background: #7c7c7c6b;
+}
+input{
+    border: none;
+    outline: none;
+    padding: 0.5em 1em;
+    border-radius: 24px;
+    background: #7c7c7c2b;
+    color: white;
+    font-size: 120%;
+    font-family: inherit;
+    width: 100%;
+
+}
+h1.temp{
+    margin: 0px;
+    margin-bottom: 0.6em;
+    text-decoration: underline;
+}
+.description{
+    text-transform: capitalize;
+    margin-left: 8px;
+}
+.flex{
+    display: flex;
+    text-align: center;
+}
