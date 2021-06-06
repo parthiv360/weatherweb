@@ -1,3 +1,5 @@
+https://img.shields.io/github/issues/parthiv360/weatherweb
+
 # WEATHER APP
 
 ## A weather displaying website which displays the current weather.
