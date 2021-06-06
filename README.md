@@ -1,15 +1,19 @@
-https://img.shields.io/github/issues/parthiv360/weatherweb
+
 
 # WEATHER APP
 
 ## A weather displaying website which displays the current weather.
 
 ## Languages used:-
+
+
  HTML(for documentation),
  CSS(for styling),
  JAVASCRIPT(for api call).
  
 ## What it displays:
+
+
   Current Temperature,
   Maximun and Minimun Temperature,
   Weather Condition,
