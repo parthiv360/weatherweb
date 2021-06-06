@@ -1,4 +1,6 @@
-
+<br>
+<img src="https://img.shields.io/github/issues/parthiv360/weatherweb" />
+<br>
 
 # WEATHER APP
 
