@@ -13,17 +13,17 @@
 ## Languages used:-
 
 
- HTML(for documentation),
- CSS(for styling),
- JAVASCRIPT(for api call).
+ HTML(for documentation)<br />
+ CSS(for styling)<br />
+ JAVASCRIPT(for api call)<br />
  
 ## What it displays:
 
 
-  Current Temperature,
-  Maximun and Minimun Temperature,
-  Weather Condition,
-  Humidity,
+  Current Temperature,<br />
+  Maximun and Minimun Temperature,<br />
+  Weather Condition,<br />
+  Humidity,<br />
   Wind Speed.
   
 I have taken help from many Youtube videos and online sources to complete this website.
